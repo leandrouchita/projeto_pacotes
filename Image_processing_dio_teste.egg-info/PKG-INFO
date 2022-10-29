@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: Image-processing-dio-teste
+Version: 0.0.3
+Summary: Image Processing Package using Skimage
+Home-page: UNKNOWN
+Author: Leandro
+License: UNKNOWN
+Description: # Image Processing
+        
+        Description. 
+        The package image-Processing is used to:
+        ## Processing:
+        - Histrogram matching
+        - Structural similarity
+        - Resize image
+        ## Ultils:
+        - Read image
+        - Save image
+        - Plot image
+        - Plot results
+        - Plot histograms
+        
+        ## Installation
+        
+        Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+        
+        ```bash
+        pip install image_processing
+        ```
+        ## Author
+        karina
+        
+        ## License
+        [MIT](https://choosealicense.com/licenses/mit/)
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
